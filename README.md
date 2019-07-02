@@ -11,3 +11,7 @@
 
 ## Self invoking functions
 * https://sarfraznawaz.wordpress.com/2012/01/26/javascript-self-invoking-functions/
+
+## Strict Mode
+* https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Strict_mode
+* https://medium.com/@felipeblini/o-que-n%C3%A3o-%C3%A9-permitido-no-strict-mode-do-javascript-6a49f5c7ec8
