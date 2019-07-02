@@ -1,6 +1,7 @@
 # Reviewing ECMAScript changes through version
 ## Sources
 * https://en.wikipedia.org/wiki/ECMAScript
+* http://es6-features.org/ - All ES6 (2015) new features
 * https://www.freecodecamp.org/news/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e/
 * https://github.com/tc39
 
