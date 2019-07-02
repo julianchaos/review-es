@@ -11,6 +11,7 @@
 
 ## Self invoking functions
 * https://sarfraznawaz.wordpress.com/2012/01/26/javascript-self-invoking-functions/
+* https://coolaj86.com/articles/how-and-why-auto-executing-function.html
 
 ## Strict Mode
 * https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Strict_mode
