@@ -12,6 +12,11 @@
 ## Self invoking functions
 * https://sarfraznawaz.wordpress.com/2012/01/26/javascript-self-invoking-functions/
 * https://coolaj86.com/articles/how-and-why-auto-executing-function.html
+* https://blog.mgechev.com/2012/08/29/self-invoking-functions-in-javascript-or-immediately-invoked-function-expression/
+
+## call() & apply() methods
+* https://www.w3schools.com/js/js_function_call.asp
+*https://www.w3schools.com/js/js_function_apply.asp
 
 ## Strict Mode
 * https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Strict_mode
