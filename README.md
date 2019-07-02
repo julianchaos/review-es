@@ -8,3 +8,6 @@
 ## Decorators
 * http://cangaceirojavascript.com.br/suportando-decorators-com-vanilla-javascript/
 * https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841
+
+## Self invoking functions
+* https://sarfraznawaz.wordpress.com/2012/01/26/javascript-self-invoking-functions/
