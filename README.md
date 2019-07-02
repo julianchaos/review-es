@@ -21,3 +21,7 @@
 ## Strict Mode
 * https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Strict_mode
 * https://medium.com/@felipeblini/o-que-n%C3%A3o-%C3%A9-permitido-no-strict-mode-do-javascript-6a49f5c7ec8
+
+## Generators
+* https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5
+* https://botleg.com/stories/generators-in-javascript-and-python/
