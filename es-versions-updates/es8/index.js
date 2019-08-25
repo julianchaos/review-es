@@ -37,3 +37,17 @@ function objectEntries() {
 
 }
 objectEntries();
+
+// String padding methods
+function stringPadding() {
+    const formatted = [1, 101, 11, 111].map(num => {
+        return num.toString().padStart(8, 0);
+    });
+    console.log(`padStart(8, '0'): `, formatted);
+
+    const formatted2 = ['Julian', 'Joseph', 'José', 'Marina'].map(name => {
+        return name.toString().padEnd(15, ' -');
+    });
+    console.log(`padEnd(15, ' -'): `, formatted2);
+}
+stringPadding();
