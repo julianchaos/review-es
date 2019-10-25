@@ -76,3 +76,12 @@ function objectGetOwnPropertyDescriptors() {
     console.log('eletric car 2: ', Object.getOwnPropertyDescriptors(eletricCar2));
 }
 objectGetOwnPropertyDescriptors();
+
+// Trailing commas in function parameters
+function trailing(
+    first,
+    second, // with this last comma the developer don't need to touch this line. Useful for git line history
+) {
+    console.log(`${first} - ${second}`);
+}
+trailing('Julian', 'Andrade');
