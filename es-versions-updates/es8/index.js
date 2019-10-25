@@ -51,3 +51,28 @@ function stringPadding() {
     console.log(`padEnd(15, ' -'): `, formatted2);
 }
 stringPadding();
+
+// Object.getOwnPropertyDescriptors
+function objectGetOwnPropertyDescriptors() {
+    const car = {
+        name: 'BMW',
+        price: 100000,
+
+        set discount(x) {
+            this.d = x;
+        },
+
+        get discount() {
+            return this.d;
+        }
+    };
+
+    console.log(Object.getOwnPropertyDescriptors(car));
+
+    const eletricCar = Object.assign({}, car);
+    console.log('eletric car: ', Object.getOwnPropertyDescriptors(eletricCar));
+
+    const eletricCar2 = Object.defineProperties({}, Object.getOwnPropertyDescriptors(car));
+    console.log('eletric car 2: ', Object.getOwnPropertyDescriptors(eletricCar2));
+}
+objectGetOwnPropertyDescriptors();
